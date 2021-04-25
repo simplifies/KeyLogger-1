@@ -1,4 +1,4 @@
 requests
-uuid
 pynput
+uuid
 datetime
