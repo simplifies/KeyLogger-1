@@ -42,7 +42,7 @@ Injector.listener_s()
 ![](https://cdn.discordapp.com/attachments/809886609717329920/835762012650209300/unknown.png)
 
 ##  📝 Contact
-Mail : _kaneki_pro@protonmail.ch_. <br>
+Mail : _kaneki_pro@protonmail.com_ <br>
 Discord : `Kaneki#8888`
 
 
