@@ -38,7 +38,7 @@ Injector.listener_s()
 ![]()
 
 ### 📜 License
-Keylogger is under licensed MIT [MIT License](https://github.com/s0md3v/Hash-Buster/blob/master/LICENSE).
+Keylogger is under licensed MIT [MIT License](https://github.com/KanekiX2/KeyLogger/blob/master/LICENSE).
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
