@@ -12,8 +12,8 @@
 
 ![](https://home.sophos.com/en-us/medialibrary/Microsites/Home/SecurityCenter/what-is-a-keylogger.jpg)
 # Keylogger  
-**FR** Kaneki Keylogger est un simple key logger écrit en python qui envoie les mots à chaque touche espace où entrer presser, Proposer à but éducatif.
-**EN** Kaneki Keylogger is a simple keylogger written in python that sends the words to each key space to enter press, Suggest for educational purpose.
+**FR** : Kaneki Keylogger est un simple key logger écrit en python qui envoie les mots à chaque touche espace où entrer presser, Proposer à but éducatif.  
+**EN** : Kaneki Keylogger is a simple keylogger written in python that sends the words to each key space to enter press, Suggest for educational purpose.  
 
 
 ## 💻 Features
