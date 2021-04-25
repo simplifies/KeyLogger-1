@@ -10,7 +10,7 @@
 **FR:** Proposer à but éducatif seulement  
 **EN:** Offer for educational purposes only  
 
----   
+
 
 ## 💻 Features
 - Send the words type to a discord webhook
@@ -36,6 +36,14 @@ Injector.listener_s()
 
 ## 📷 Demo
 ![]()
+
+##  📝 Contact
+Mail : _kaneki_pro@protonmail.ch_. <br>
+Discord : `Kaneki#8888`
+
+
+## 📚 Contributions
+All suggestions are welcome.
 
 ### 📜 License
 Keylogger is under licensed MIT [MIT License](https://github.com/KanekiX2/KeyLogger/blob/master/LICENSE).
