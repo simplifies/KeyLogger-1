@@ -32,5 +32,5 @@ class Inject():
             
 
     def listener(self):
-        listener = Listener(on_press=self.on_press)
-        listener.join()
+        with Listener(on_press=self.on_press) as listener:
+        	listener.join()
